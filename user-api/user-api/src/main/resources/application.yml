@@ -1,0 +1,5 @@
+spring:     
+    data:
+        mongodb: 
+        uri: mongodb+srv://gabrielaferreira:IFTM2024iftm@cluster0.lyljj.mongodb.net/
+        database: user-api
